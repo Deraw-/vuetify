@@ -33,5 +33,10 @@
     "name": "日本語",
     "locale": "ja",
     "country": "jp"
+  },
+  {
+    "name": "Français",
+    "locale": "fr",
+    "country": "fr"
   }
 ]

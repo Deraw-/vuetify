@@ -1,0 +1,60 @@
+{
+  "announcementBanner": "Oh oui, c'est une annonce excitante ! Ou peut-être que c'est une publicité !",
+  "heading1": "Vuetify",
+  "heading1cont": "Framework de Composants Material",
+  "getStarted": "Commencer",
+  "getHelp": "Obtenir de l'aide",
+  "features": [
+    {
+      "img": "https://cdn.vuetifyjs.com/images/home/feature1.svg",
+      "title": "Projets prêts à l'emploi",
+      "text": "Vuetify est prêt à l'emploi avec 8 modèles de vue-cli pré-fabriqués. Du HTML simple au SSR complet, vous êtes prêt à partir en quelques minutes."
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/home/feature2.svg",
+      "title": "Composants Material Sémantiques",
+      "text": "Soyez prêt pour une armada de composants spécialisés à votre disposition. Avec plus de 80 au total, il existe une solution pour toutes les applications."
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/home/feature3.svg",
+      "title": "Communauté Vibrante",
+      "text": "Lorsque vous rencontrez un barrage routier, vous avez besoin d'aide immédiatement. Vuetify offre un support de chat dans notre communauté grandissante sur Discord."
+    }
+  ],
+  "checkFeaturesTitle": "Tous les outils dont vous avez besoin",
+  "checkFeaturesTitleCtd": "Pour construire des Interfaces Utilisateur incroyables",
+  "checkFeatures": [
+    "Support de chat communautaire",
+    "Thèmes dynamiques",
+    "Prise en charge SSR et PWA",
+    "8 modèles vue-cli"
+  ],
+  "checkFeaturesCtd": [
+    "80+ Composants Material Design",
+    "Importation À La Carte",
+    "Composants de Transition",
+    "Incroyablement Rapide"
+  ],
+  "componentFramework": "Framework de Composants",
+  "github": "Github",
+  "letterFromAuthor": [
+    "Bonjour,",
+    "Je sais que choisir un framework d'Interface Utilisateur  peut être une tâche décourageante – il existe une multitude d’options parmi lesquelles choisir et toutes prétendent être les meilleures. Donc, vous devez décider *vous-même* : quels sont les clés du succès ?",
+    "C'était moi il y a presque un an. Il y avait beaucoup de boîtes à outils d'Interface Utilisateur parmi lesquelles choisir, mais aucune d'elles n'avait tout ce dont j'avais besoin, et c'est pourquoi j'ai commencé à travailler sur Vuetify.",
+    "Je suis extrêmement honoré que vous envisagiez d'utiliser Vuetify comme votre prochain Framework d'IU. Nous avons apporté beaucoup de soin à la création de la configuration parfaite pour porter n'importe quelle idée de la conception à la production. J'ai hâte de vous rejoindre la communauté Vuetify et je suis impatient de voir quelles interfaces incroyables vous créez !"
+  ],
+  "authorOfVuetify": "Auteur de Vuetify",
+  "support": {
+    "hasVuetifyHelped": "Vuetify vous a-t-il aidé à créer une application incroyable ?",
+    "showYourSupport": "Montrez votre soutien à Vuetify en",
+    "becomingAPatron": "Devenir un Patreon"
+  },
+  "becomeSponsor": "Devenir Sponsor",
+  "proudlySponsoredBy": "Sponsors Patreon",
+  "callout": "Superchargez votre<br>Développement",
+  "madeWithVuetify": "Projets réalisés avec/pour Vuetify",
+  "materialDesign": "Material Design",
+  "mit": "Licence MIT",
+  "specialSponsors": "Sponsors Spéciaux",
+  "whyVuetify": "Pourquoi Vuetify ?"
+}
